@@ -1,0 +1,38 @@
+22.sorted(array) === sorted.js
+
+# binomial reusing
+21. n! === fact.js
+20. P(n,r) = n! / (n-r)! === permuta.js
+19. C(n,r)  = P(n,r) / r!  === combi.js
+18. catalan(n) === catalan.js
+= (2n
+    r ) / (n+1)
+
+# O(f(n))
+17. gcd(a,c) === MCD.js
+16. lcm(a,c) === mcm.js
+15. fibonacci(a)=== Fibo.js
+14. prime(a) === primos.js
+
+# arrays
+13. repeated() === repe.js
+12. howMany() === cuantos.js
+11. list() === 
+
+# approximations
+10 sen x	 = x - x^3/3! + x^5/5! - x^7/7! + ... === senx.js
+9. cos x	 = 1 - x^2/2! + x^4/4! - x^6/6! + ... === cosx.js
+8. e^x	 = 1 + x + x^2/2! + x^3/3! + ... === eax.js
+8a. prove that e = e^1  = 1 + 1  +  1/2! + 1/3!   + ... ~ 2.7182
+
+# oracles
+7. s2 = 1+2+... = n(n+1)/2 ~ (n^2)/2 === sum1.js
+6. s3 = 1^2 + 2^2 + ... = n(n+1)(2n+2)/6 ~ (n^3)/3 === sum2.js
+5. s4 = 1^k + 2^k + ... ~ (n^(k+1))/(k+1) === sum3.js
+4. s5 = 1 + a + a^2 ... = ((a^(n+1))-1)/(a-1) ; a != 1 === sum4.js
+4a. calculate s5 for a=2 
+
+# first ones
+3. teamBase === Log10.js
+2. base 7 === Log7.js
+1. base b (prompt, let, optional) === logp.js y logp.html
