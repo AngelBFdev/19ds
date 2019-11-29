@@ -9,7 +9,7 @@ class Node
     } 
 }
 
-class BynaryTree{
+class oubTree{
     constructor(){
         this._root=null
     }
@@ -115,7 +115,7 @@ class BynaryTree{
       }  
 }
 
-var Arbol = new BynaryTree()
+var Arbol = new oubTree()
 Arbol.insert(15);
 Arbol.insert(25); 
 Arbol.insert(10); 
