@@ -116,16 +116,16 @@ class oubTree{
 }
 
 var Arbol = new oubTree()
-Arbol.insert(15);
-Arbol.insert(25); 
+Arbol.insert(30);
+Arbol.insert(20); 
 Arbol.insert(10); 
-Arbol.insert(7); 
-Arbol.insert(22); 
-Arbol.insert(17);
-Arbol.insert(13);
-Arbol.insert(5)
-Arbol.insert(9)
-Arbol.insert(27)
+Arbol.insert(50); 
+Arbol.insert(5); 
+Arbol.insert(8);
+Arbol.insert(89);
+Arbol.insert(45)
+Arbol.insert(3)
+Arbol.insert(1)
 
 Arbol.preorder(root)
 
